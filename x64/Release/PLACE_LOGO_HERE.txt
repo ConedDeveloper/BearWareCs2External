@@ -1,0 +1,18 @@
+LOGO FILE INSTRUCTIONS:
+
+Place your bear logo file in this directory with one of these names:
+- bear_logo.png  (RECOMMENDED - most compatible)
+- bear_logo.ico
+- bear_logo.bmp
+
+The application will try to load them in that order.
+
+CURRENT DIRECTORY: external-cheat-base-master\x64\Release\
+
+If the logo still doesn't appear, try:
+1. Convert your ICO file to PNG format
+2. Make sure the file is exactly named "bear_logo.png"
+3. Ensure the file is not corrupted
+4. Check that the image dimensions are reasonable (32x32 to 512x512)
+
+The orange circle means the fallback is being used because no logo file was found or loaded successfully.

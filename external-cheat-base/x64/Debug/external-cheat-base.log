@@ -1,0 +1,9 @@
+﻿  config.cpp
+  esp.cpp
+  main.cpp
+  memory.cpp
+C:\Users\beana\Desktop\BearWare Cs2\external-cheat-base-master\external-cheat-base\memory\memory.cpp(18,52): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Users\beana\Desktop\BearWare Cs2\external-cheat-base-master\external-cheat-base\memory\memory.cpp(30,77): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  renderer.cpp
+  Generating Code...
+  external-cheat-base.vcxproj -> C:\Users\beana\Desktop\BearWare Cs2\external-cheat-base-master\x64\Debug\external-cheat-base.exe
